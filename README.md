@@ -18,5 +18,10 @@ Now, set Switch(K) to 'Close' mode and again vary the values of RA, RB, Ra and R
 If "NULL" is achieved, click on 'Calculate' on 'Calculated Unknown Resistance Value' box to observe calculated value of unknown resistance (S).
 
 ## Circuit Diagram:
+<img width="756" height="680" alt="image" src="https://github.com/user-attachments/assets/6666f1ba-4482-4756-9f8c-bb484e20076f" />
+
+## output:
+<img width="693" height="157" alt="image" src="https://github.com/user-attachments/assets/88ff3da8-43d9-482f-a1c0-b43e460cd36d" />
 
 ## Result: 
+Thus, the low resistance of the given resistor was measured successfully using the Kelvin's Double Bridge and the unknown resistance value was determined accurately.
